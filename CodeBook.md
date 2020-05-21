@@ -1,3 +1,5 @@
+## Code Book
+Author: Michael Galarnyk
 ### Source Data
 Data source can be found in the README.md
 
